@@ -1,0 +1,10 @@
+{
+  "accentColor": "#3888b2",
+  "cssTheme": "Minimal",
+  "nativeMenus": true,
+  "showViewHeader": false,
+  "enabledCssSnippets": [
+    "override"
+  ],
+  "baseFontSize": 19
+}
