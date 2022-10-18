@@ -1,3 +1,7 @@
-.workspace-tab-header-container{
+body.is-focused  .workspace-tab-header-container{
     background-color: #31363b !important;
+}
+
+.mod-top-left-space .workspace-tab-header-container{
+    border-right: 1px solid #494c4f;
 }
